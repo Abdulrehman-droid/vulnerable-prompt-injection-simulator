@@ -5,6 +5,16 @@ emoji: 🛡️
 colorFrom: red
 colorTo: purple
 sdk: gradio
+sdk_version: "4.31.0"
+app_file: app.py
+pinned: false
+---
+---
+title: VulnPrompt-AI Simulator
+emoji: 🛡️
+colorFrom: red
+colorTo: purple
+sdk: gradio
 sdk_version: 4.31.0 # Or your specific Gradio version
 app_file: app.py
 ---
