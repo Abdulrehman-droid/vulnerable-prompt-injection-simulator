@@ -1,7 +1,6 @@
 
 # 🛡️ Vulnerable Prompt Injection - Simulator
 
-![Gradio App Screenshot](https://raw.githubusercontent.com/Abdulrehman-droid/vulnerable-prompt-injection-simulator/main/screenshot.png) <!-- Replace with an actual screenshot URL -->
 
 AI-powered vulnerability injection simulator using the Groq API (Llama models) and a Gradio interface. This project is designed for educational purposes to help users understand common security vulnerabilities in Python code.
 
