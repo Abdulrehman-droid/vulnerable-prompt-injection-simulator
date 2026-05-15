@@ -1,24 +1,4 @@
 
----
-title: VulnPrompt-AI Simulator
-emoji: 🛡️
-colorFrom: red
-colorTo: purple
-sdk: gradio
-sdk_version: "4.31.0"
-app_file: app.py
-pinned: false
----
----
-title: VulnPrompt-AI Simulator
-emoji: 🛡️
-colorFrom: red
-colorTo: purple
-sdk: gradio
-sdk_version: 4.31.0 # Or your specific Gradio version
-app_file: app.py
----
-
 # 🛡️ Vulnerable Prompt Injection - Simulator
 
 ![Gradio App Screenshot](https://raw.githubusercontent.com/Abdulrehman-droid/vulnerable-prompt-injection-simulator/main/screenshot.png) <!-- Replace with an actual screenshot URL -->
@@ -53,7 +33,7 @@ To run this application locally, follow these steps:
     ```
 
 2.  **Install dependencies:**
-    Ensure you have Python 3.8+ installed. Then install the required libraries:
+    Ensure you have **Python 3.10** installed. Then install the required libraries:
     ```bash
     pip install -r requirements.txt
     ```
