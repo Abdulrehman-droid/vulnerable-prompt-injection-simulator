@@ -1,4 +1,14 @@
 
+---
+title: VulnPrompt-AI Simulator
+emoji: 🛡️
+colorFrom: red
+colorTo: purple
+sdk: gradio
+sdk_version: 4.31.0 # Or your specific Gradio version
+app_file: app.py
+---
+
 # 🛡️ Vulnerable Prompt Injection - Simulator
 
 ![Gradio App Screenshot](https://raw.githubusercontent.com/Abdulrehman-droid/vulnerable-prompt-injection-simulator/main/screenshot.png) <!-- Replace with an actual screenshot URL -->
